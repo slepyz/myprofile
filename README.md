@@ -2,7 +2,7 @@
 
 ![Project Screenshot](./screenshot.png)
 
-"My Profile" is a personal website created to show information about myself, skills, experiences, and works. This website was created with [Nuxt. js](https://nuxtjs.org/) และ deploy บน [GitHub Pages](https://pages.github.com/).
+"My Profile" is a personal website created to show information about myself, skills, experiences, and works. This website was created with [Nuxt. js](https://nuxtjs.org/) And deploy On [GitHub Pages](https://pages.github.com/).
 
 ---
 
@@ -18,6 +18,8 @@
 
 ## Site Preview
 
-You can visit the website at : [https://username.github.io/my-profile](https://username.github.io/my-profile)
-
+You can visit the website at : comming soon
+```
+comming soon
+```
 ---
