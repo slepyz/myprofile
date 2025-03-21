@@ -1,75 +1,23 @@
-# Nuxt Minimal Starter
+# My Profile Website
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Project Screenshot](./screenshot.png)
 
-## Setup
+"My Profile" is a personal website created to show information about myself, skills, experiences, and works. This website was created with [Nuxt. js](https://nuxtjs.org/) และ deploy บน [GitHub Pages](https://pages.github.com/).
 
-Make sure to install dependencies:
+---
 
-```bash
-# npm
-npm install
+## Core eatures
 
-# pnpm
-pnpm install
+- **Personal Information**: Display name, location, and contact information
+- **Skill**: Displays the technical skills I have, such as HTML, CSS, JavaScript, Nuxt. js, etc.
+- **Work**: Show projects I've done with links to repositories or websites.
+- **Block**: The article I wrote about the technology or the topic of interest.
+- **Contact**: Contact form or link to social media
 
-# yarn
-yarn install
+---
 
-# bun
-bun install
-```
+## Site Preview
 
-## Development Server
+You can visit the website at : [https://username.github.io/my-profile](https://username.github.io/my-profile)
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+---
